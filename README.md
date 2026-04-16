@@ -47,7 +47,7 @@ As the founder of **Kubic Studio Digital**, I lead projects that integrate brand
 
 ## 🌐 Connect With Me
 - LinkedIn: [linkedin.com/in/yourusername](Andrea Barrera)  
-- Portfolio: [yourwebsite.com](https://kubicstudiodigital.com)  
+- Portfolio: [kubicstudiodigital.com](https://kubicstudiodigital.com)  
 - Email: kubicstudiodigital@gmail.com  
 
 ---
