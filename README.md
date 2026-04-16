@@ -25,11 +25,6 @@ Como fundadora de **Kubic Studio Digital**, lidero proyectos que integran brandi
 - **Guía de Estrategia de Marca** – Framework para construir y gestionar marcas efectivas  
 - **Portfolio UX/UI** – Diseños y prototipos interactivos para experiencias digitales  
 
----
-
-## 🌐 Conecta conmigo 
-- Portafolio: [tuweb.com](kubicstudiodigital)  
-- Email: kubicstudiodigital@gmail.com
 
 - 
 <!--
