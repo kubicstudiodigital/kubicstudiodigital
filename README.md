@@ -47,8 +47,9 @@ As the founder of **Kubic Studio Digital**, I lead projects that integrate brand
 
 ## 🌐 Connect With Me
 - LinkedIn: [linkedin.com/https://www.linkedin.com/in/andrea-barrera-29838288?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
-- Portfolio: [kubicstudiodigital.com](https://kubicstudiodigital.com)  
+- sitio Web: [kubicstudiodigital.com](https://kubicstudiodigital.com)  
+- portafolio personal: https://portfolio-andreb.vercel.app/portfolio.html
 - Email: kubicstudiodigital@gmail.com
--   
+
 
 ---
